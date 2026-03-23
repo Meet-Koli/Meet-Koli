@@ -7,8 +7,7 @@ Final Year B.E. (CSE) Student | AI Agents & Automation Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+AI+Agents+%26+LLM+Workflows;Automation+with+n8n+%7C+Make+%7C+Relay.app;Python+%7C+APIs+%7C+LLMs;Aspiring+AI+Engineer&center=true&width=600&height=45">
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+AI+Agents+%26+LLM+Workflows;Automation+with+n8n+%7C+Make+%7C+Relay.app;Python+%7C+APIs+%7C+LLMs;">
 
 ---
 
