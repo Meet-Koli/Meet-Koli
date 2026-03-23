@@ -52,7 +52,7 @@
 
 ### 💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,postman" />
 </p>
 
 ### ⚙️ AI / Machine Learning
