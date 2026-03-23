@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-Final Year B.E. (CSE) Student | AI Agents & Automation Engineer
+  Final Year B.E. (CSE) Student | AI Agents & Automation Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+AI+Agents+%26+LLM+Workflows;Automation+with+n8n+%7C+Make+%7C+Relay.app;Python+%7C+APIs+%7C+LLMs;" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+AI+Agents+%26+LLM+Workflows;Automation+with+n8n+%7C+Make+%7C+Relay.app;Python+%7C+APIs+%7C+LLMs;&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=18" />
 </p>
 
 ---
@@ -24,36 +24,49 @@ Final Year B.E. (CSE) Student | AI Agents & Automation Engineer
 
 ## 🛠️ What I’m Building
 
-🤖 **Agentic AI Systems**
-- Designing **multi-agent workflows** using **n8n, Make, and Relay.app**
-- Building agents that can **plan → execute → verify → iterate autonomously**
+🛰️ **AI-Powered Border Surveillance System**
+- Developing a **real-time surveillance system** using **Computer Vision (OpenCV, YOLOv8)**
+- Detecting and tracking **unauthorized movements / objects** from video feeds
+- Integrating **AI models with automation workflows** for alerting and monitoring
+- Designing a system that can **analyze → detect → alert → respond automatically**
 
-🐍 **Python Automation**
-- Developing backend logic for:
-  - API orchestration  
-  - Data processing  
-  - LLM integrations  
+🤖 **Agentic AI & Automation**
+- Building **AI agents** to process surveillance insights and trigger actions
+- Creating workflows using **n8n, Make, and APIs** for:
+  - Real-time alerts (email / webhook / dashboard)
+  - Incident logging & tracking
+- Exploring **multi-agent collaboration** for decision-making systems
+
+🐍 **Python & Backend Logic**
+- Writing Python scripts for:
+  - Video stream processing  
+  - Object detection pipelines  
+  - API integrations & automation triggers  
 
 ⚡ **Projects**
-- ✅ Built an **Autonomous Email Reply AI Agent**
-- Integrated **LLMs + APIs + automation tools** to simulate **production-grade workflows**
-
+- 🚧 Building **AI Border Surveillance System** (Computer Vision + Automation)
+  
 ---
 
 ## 🧰 Tech Stack & Tools
 
-### 💻 Languages & Technologies
+### 💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css" />
 </p>
 
-### ⚙️ AI & Automation
+### ⚙️ AI / Machine Learning
+- OpenCV (Computer Vision)  
+- YOLOv8 (Object Detection)  
+- LLM APIs (OpenAI & similar)  
+
+### 🤖 Automation & Agentic Systems
 - n8n  
 - Make (Integromat)  
 - Relay.app  
-- LLM APIs (OpenAI & others)  
+
+### 📊 Data & Visualization
 - Power BI  
-- OpenCV / YOLOv8  
 
 ### 🛠️ Tools
 - Git & GitHub  
@@ -62,15 +75,20 @@ Final Year B.E. (CSE) Student | AI Agents & Automation Engineer
 
 ## 🎯 What I’m Looking For
 
-🤝 I’m actively seeking an **Internship or Entry-Level Role** in:
+🚀 I’m seeking an **Internship or Entry-Level Role** in:
 - AI Engineering  
 - AI Automation  
 - Agentic AI / LLM Systems  
 
-💡 Where I can:
-- Apply my skills to real-world problems  
-- Learn from experienced engineers  
-- Contribute to building scalable AI products  
+💼 Where I can:
+- Build **real-world AI systems**  
+- Work on **automation and intelligent workflows at scale**  
+- Contribute to **production-grade AI products**  
+
+🧠 I bring:
+- Hands-on experience with **AI agents, automation tools, and APIs**  
+- Strong foundation in **Python, Computer Vision, and LLM integrations**  
+- A builder mindset focused on **solving real problems with AI**  
 
 ---
 
@@ -83,5 +101,5 @@ Final Year B.E. (CSE) Student | AI Agents & Automation Engineer
 ---
 
 <p align="center">
-  <i>⚡ Building intelligent systems that work while we sleep.</i>
+  <i>⚡ Building intelligent systems that work while you sleep.</i>
 </p>
