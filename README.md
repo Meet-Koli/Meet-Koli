@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🎓 Final-year **Computer Science Engineering** student (**8.9 CGPA**) with a strong focus on **AI Agents, Automation, and LLM-powered systems**.
+🎓 Final-year **Computer Science Engineering** student (**8.63 CGPA and 8.85 CPI**) with a strong focus on **AI Agents, Automation, and LLM-powered systems**.
 
 🧠 I specialize in building **intelligent, autonomous workflows** by integrating **Large Language Models with real-world tools and APIs**.
 
